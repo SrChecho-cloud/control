@@ -15,4 +15,5 @@ Celular2 = Celular()
 print(Celular1.marca) # Samsung
 print(Celular2.modelo) # Galaxy S10
 
-print("Modificación realizada desde la rama main")
+
+print("acuerdo entre main y desarrollo")
